@@ -1,5 +1,5 @@
 {
-  "name": "Mitsubishi GTO Twin Turbo 1996",
+  "name": "Mitsubishi GTO Twin Turbo - Pit Road M SL I",
   "brand": "Neu Millennia",
   "description": "The Mitsubishi GTO is a sports car built by the Japanese automaker Mitsubishi between 1990 and 1999. In most export markets it was rebadged as the Mitsubishi 3000GT. It was also imported and sold by Chrysler of North America as the Dodge Stealth captive import from 1990 to 1996 with only minor detail/appearance differences; mechanically, the two cars were almost identical.",
   "tags": [
@@ -380,7 +380,7 @@
   ],
   "country": "Japan",
   "year": 1997,
-  "author": "skip",
-  "version": null,
+  "author": "skip + edit by soulkobk",
+  "version": "1.1",
   "url": null
 }
