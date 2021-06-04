@@ -1,0 +1,22 @@
+{
+  "carPaint": {
+    "color": "#FF301E11",
+    "flakes": 0.199,
+    "enabled": true
+  }
+}
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#FC070B"
+    ]
+  }  
+},
+  "interiorPiece": {
+    "enabled": true,
+    "colors": [
+      "#FC070B"
+    ]
+  }
+}

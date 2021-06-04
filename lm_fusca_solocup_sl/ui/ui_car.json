@@ -1,196 +1,214 @@
 {
-  "name": "Fusca - 1300",
+  "name": "Volkswagen Fusca - 2000 Turbo AWD",
   "brand": "Volkswagen",
-  "class": "street",
+  "class": "Street",
   "country": "Brazil",
-  "description": "O Fusca (no Brasil) ou Carocha (em Portugal) foi o primeiro modelo de autom&#243;vel fabricado pela companhia alem&#227; Volkswagen. Foi o carro mais vendido no mundo ultrapassando em 1972 o recorde que pertencia at&#233; ent&#227;o ao Ford Modelo T, de origem estadunidense. O primeiro modelo bi-diesel, da d&#233;cada de 40 ficou para a hist&#243;ria por ser segmentado. O &#250;ltimo modelo do VW Sedan (nome que o ve&#237;culo recebeu no M&#233;xico) foi l&#225; produzido em 2003.[1]. Ele era parte de uma edi&#231;&#227;o comemorativa chamada &#218;ltima Edici&#243;n, limitada a 3.000 carros. O &#250;ltimo exemplar marcou o fim da longa produ&#231;&#227;o de 65 anos do Fusca, durante a qual foram fabricados 21.529.464 unidades, n&#250;meros que fazem dele o modelo &#250;nico mais produzido do mundo em todos os tempos.",
+  "description": "The Beetle (in Brazil) or Carocha (in Portugal) was the first car model manufactured by the German company Volkswagen.<br><br>It was the best-selling car in the world, surpassing in 1972 the record that previously belonged to the Ford Model T, of American origin.<br><br>The first bi-diesel model, from the 1940s, became history for being segmented. <br><br>The last model of the VW Sedan (the name the vehicle received in Mexico) was produced there in 2003. [1]. It was part of a commemorative edition called Ultima Edici&#243;n, limited to 3,000 cars.<br><br>The last example marked the end of the 65-year long production of the Beetle, during which 21,529,464 units were manufactured, figures that make it the most produced single model in the world at all times.<br><br>20201112 soulkobk edit v1.1.2 (New Vehicle)<br>+ Changed Engine to 2000cc WRX STI 730BHP Turbo (Holmes Modding Team)<br>+ Changed drive-train to AWD to suit new engine (Holmes Modding Team + soulkobk)<br>+ Changed vehicle settings for default values (soulkobk)<br>+ Added multiple gear sets and diff ratios (soulkobk)<br>+ Added New OWP Motorsport Livery (soulkobk)<br>+ Added semi slick tyres (soulkobk)<br>+ Updated Physics/Suspension/Brakes for better handling (Teleport Me)<br>+ Updated tyre sizes/widths (155 Front, 225 Rear, 18&quot; Rims) (soulkobk)<br>+ Updated sounds to better suit the new engine/turbo (Ama FMOD)<br>+ Updated body shadow (soulkobk)<br>+ Enabled exhaust flames (soulkobk)<br>+ Enabled Front/Center/Rear Diff to be changable values (soulkobk)<br>+ Enabled adjustable turbo in set up and cabin (soulkobk)",
   "tags": [
-    "#sedan",
-    "rwd",
+    "sedan",
+    "awd",
     "manual",
     "street",
-    "brazil"
+    "brazil",
+    "turbo",
+    "owp edit"
   ],
   "torqueCurve": [
     [
       0.0,
-      39.740566037735853
+      116.509433962264
     ],
     [
-      54.98,
-      39.740566037735853
+      85.0,
+      116.512416603774
     ],
     [
-      109.96,
-      39.740566037735853
+      170.0,
+      116.53329509434
     ],
     [
-      164.94,
-      39.740566037735853
+      255.0,
+      116.589965283019
     ],
     [
-      219.92,
-      39.740566037735853
+      340.0,
+      116.700323018868
     ],
     [
-      274.9,
-      39.740566037735853
+      425.0,
+      116.882264150943
     ],
     [
-      329.88,
-      39.740566037735853
+      500.0,
+      117.116525659686
     ],
     [
-      384.86,
-      39.740566037735853
+      510.0,
+      117.203893250243
     ],
     [
-      439.84,
-      39.740566037735853
+      595.0,
+      118.011005097143
     ],
     [
-      494.82,
-      39.740566037735853
+      680.0,
+      118.947114058868
     ],
     [
-      549.8,
-      39.740566037735853
+      765.0,
+      120.031688262642
     ],
     [
-      604.78,
-      39.740566037735853
+      850.0,
+      121.284456603774
     ],
     [
-      659.76,
-      39.740566037735853
+      935.0,
+      122.72540874566
     ],
     [
-      714.74,
-      39.740566037735853
+      1020.0,
+      124.340034137358
     ],
     [
-      769.72,
-      39.740566037735853
+      1105.0,
+      126.068533479677
     ],
     [
-      824.7,
-      39.740566037735853
+      1190.0,
+      128.04272152496
     ],
     [
-      879.68,
-      39.740566037735853
+      1275.0,
+      130.282713207547
     ],
     [
-      934.66,
-      39.740566037735853
+      1360.0,
+      132.80879730717
     ],
     [
-      989.64,
-      39.740566037735853
-    ],
-    [
-      1000.0,
-      39.740566037735853
+      1445.0,
+      135.641436448949
     ],
     [
       1500.0,
-      80.778301886792462
+      137.64737085668
     ],
     [
-      2000.0,
-      112.26415094339623
+      1530.0,
+      138.858654617358
+    ],
+    [
+      1615.0,
+      142.534117411968
+    ],
+    [
+      1700.0,
+      146.586976819407
+    ],
+    [
+      1785.0,
+      151.039702356442
+    ],
+    [
+      1870.0,
+      155.915024307925
+    ],
+    [
+      2040.0,
+      166.935544451105
+    ],
+    [
+      2125.0,
+      173.016509433962
+    ],
+    [
+      2210.0,
+      179.599211814987
+    ],
+    [
+      2295.0,
+      186.705980500701
+    ],
+    [
+      2380.0,
+      194.359318243019
     ],
     [
       2500.0,
-      134.31603773584908
+      206.138460150006
+    ],
+    [
+      2635.0,
+      220.826381009596
+    ],
+    [
+      2805.0,
+      241.624308298005
+    ],
+    [
+      2975.0,
+      265.163354716981
     ],
     [
       3000.0,
-      146.69811320754718
+      268.867632657294
     ],
     [
-      3500.0,
-      149.64622641509436
+      3145.0,
+      298.8397672
     ],
     [
-      4000.0,
-      146.10849056603774
+      3315.0,
+      338.395447049057
+    ],
+    [
+      3570.0,
+      406.624078143827
+    ],
+    [
+      3740.0,
+      457.299136084528
+    ],
+    [
+      3910.0,
+      513.881664929811
+    ],
+    [
+      4250.0,
+      636.141509433962
     ],
     [
       4500.0,
-      137.73584905660377
+      646.627358490566
     ],
     [
-      4600.0,
-      100.23584905660378
+      5000.0,
+      664.103773584906
     ],
     [
-      4618.32,
-      100.23584905660378
+      6000.0,
+      741.0
     ],
     [
-      4673.3,
-      100.23584905660378
+      6500.0,
+      720.028301886792
     ],
     [
-      4728.28,
-      100.23584905660378
+      7000.0,
+      695.561320754717
     ],
     [
-      4783.26,
-      100.23584905660378
+      7500.0,
+      650.122641509434
     ],
     [
-      4838.24,
-      100.23584905660378
+      8000.0,
+      629.150943396226
     ],
     [
-      4893.22,
-      100.23584905660378
-    ],
-    [
-      4948.2,
-      100.23584905660378
-    ],
-    [
-      5003.18,
-      100.23584905660378
-    ],
-    [
-      5058.16,
-      100.23584905660378
-    ],
-    [
-      5113.14,
-      100.23584905660378
-    ],
-    [
-      5168.12,
-      100.23584905660378
-    ],
-    [
-      5223.1,
-      100.23584905660378
-    ],
-    [
-      5278.08,
-      100.23584905660378
-    ],
-    [
-      5333.06,
-      100.23584905660378
-    ],
-    [
-      5388.04,
-      100.23584905660378
-    ],
-    [
-      5443.02,
-      100.23584905660378
-    ],
-    [
-      5498.0,
-      100.23584905660378
+      8500.0,
+      611.674528301887
     ]
   ],
   "powerCurve": [
@@ -199,88 +217,168 @@
       0.0
     ],
     [
-      1000.0,
-      5.5811167614755579
+      680.0,
+      11.3565485231543
     ],
     [
-      1099.6,
-      7.3993888137198809
+      935.0,
+      16.1112648415086
     ],
     [
-      1209.56,
-      9.6723998464448915
+      1190.0,
+      21.3936751235657
     ],
     [
-      1319.52,
-      12.224151270324997
-    ],
-    [
-      1429.48,
-      15.054643085360196
+      1360.0,
+      25.3600024322438
     ],
     [
       1500.0,
-      17.016609710433638
+      28.9896330606332
     ],
     [
-      1704.38,
-      22.41579353359694
+      1615.0,
+      32.3202637519064
     ],
     [
-      1924.3,
-      29.050724327683376
+      1700.0,
+      34.9887033469388
     ],
     [
-      2000.0,
-      31.532481643470213
+      1785.0,
+      37.8540960917943
     ],
     [
-      2309.16,
-      40.82858323367995
+      1870.0,
+      40.9367265518933
+    ],
+    [
+      2040.0,
+      47.8148198667494
+    ],
+    [
+      2125.0,
+      51.6214285714286
+    ],
+    [
+      2210.0,
+      55.7288702165159
+    ],
+    [
+      2295.0,
+      60.1623037317747
+    ],
+    [
+      2380.0,
+      64.94801207296
     ],
     [
       2500.0,
-      47.157952457868404
+      72.3573369913811
+    ],
+    [
+      2635.0,
+      81.6986938481894
+    ],
+    [
+      2805.0,
+      95.1605685307559
+    ],
+    [
+      2975.0,
+      110.760272
     ],
     [
       3000.0,
-      61.806313809575023
+      113.251331487205
     ],
     [
-      3500.0,
-      73.55646912787445
+      3145.0,
+      131.960082341181
     ],
     [
-      4000.0,
-      82.077194866091588
+      3315.0,
+      157.503998151314
     ],
     [
-      4288.44,
-      85.0868439770218
+      3570.0,
+      203.819084481097
     ],
     [
-      4500.0,
-      87.045548066218188
+      3740.0,
+      240.13503213568
     ],
     [
-      4600.0,
-      64.754203374983476
+      3910.0,
+      282.113207431558
     ],
     [
-      5498.0,
-      77.395350033838952
+      4250.0,
+      379.6
+    ],
+    [
+      5000.0,
+      466.218487394958
+    ],
+    [
+      6000.0,
+      624.242016806723
+    ],
+    [
+      6500.0,
+      657.12268907563
+    ],
+    [
+      7000.0,
+      683.623529411765
+    ],
+    [
+      7055.0,
+      684.043788571429
+    ],
+    [
+      7140.0,
+      684.54144
+    ],
+    [
+      7225.0,
+      684.854714285714
+    ],
+    [
+      7310.0,
+      684.983611428572
+    ],
+    [
+      7395.0,
+      684.928131428571
+    ],
+    [
+      7480.0,
+      684.688274285714
+    ],
+    [
+      7500.0,
+      684.605042016807
+    ],
+    [
+      8000.0,
+      706.689075630252
+    ],
+    [
+      8500.0,
+      730.0
     ]
   ],
   "specs": {
-    "bhp": "87 bhp",
-    "torque": "150 Nm",
-    "weight": "785kg",
-    "topspeed": "158km/h",
-    "acceleration": "16.7s 0-100",
-    "pwratio": "9.02 kg/hp"
+    "bhp": "730 bhp",
+    "torque": "741 Nm*",
+    "weight": "785 kg",
+    "topspeed": "336 km/h",
+    "acceleration": "3.4s 0-100",
+    "pwratio": "1.08 kg/hp"
   },
-  "author": "Lucas Macedo",
+  "author": "Lucas Macedo + soulkobk edit",
   "url": "www.lucas-mods.com",
-  "version": null,
+  "version": "1.1.2",
   "year": 1972
 }
