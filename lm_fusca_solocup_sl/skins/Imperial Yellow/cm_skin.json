@@ -1,0 +1,13 @@
+{
+  "carPaint": {
+    "color": "#FFF4C430",
+    "flakes": 0.0,
+    "enabled": true
+  },
+  "interiorPiece": {
+    "enabled": true,
+    "colors": [
+      "#282828"
+    ]
+  }
+}
